@@ -1,4 +1,4 @@
-module github.com/WinterYukky/gorm-extra-clause-plugin
+module github.com/tdx/gorm-extra-clause-plugin
 
 go 1.17
 
